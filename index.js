@@ -60,8 +60,8 @@ const displayData = () => {
         <th>Name</th>
         <th>Email</th>
         <th>Password</th>
-        <th>DOB</th>
-        <th>Accept Terms?</th>
+        <th>Dob</th>
+        <th>Accepted terms?</th>
         </tr>
         ${user_entries}
         </table>`;
